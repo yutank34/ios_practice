@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C02EDB0F238E63A50034628D /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02EDB0E238E63A50034628D /* Concentration.swift */; };
+		C02EDB11238E648B0034628D /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = C02EDB10238E648B0034628D /* Card.swift */; };
 		C0615492238B6F5300DCD787 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0615491238B6F5300DCD787 /* AppDelegate.swift */; };
 		C0615494238B6F5300DCD787 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0615493238B6F5300DCD787 /* ViewController.swift */; };
 		C0615497238B6F5300DCD787 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0615495238B6F5300DCD787 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C02EDB0E238E63A50034628D /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		C02EDB10238E648B0034628D /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		C061548E238B6F5300DCD787 /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0615491238B6F5300DCD787 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C0615493238B6F5300DCD787 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 		C0615490238B6F5300DCD787 /* calculator */ = {
 			isa = PBXGroup;
 			children = (
+				C02EDB0E238E63A50034628D /* Concentration.swift */,
+				C02EDB10238E648B0034628D /* Card.swift */,
 				C0615491238B6F5300DCD787 /* AppDelegate.swift */,
 				C0615493238B6F5300DCD787 /* ViewController.swift */,
 				C0615495238B6F5300DCD787 /* Main.storyboard */,
@@ -137,6 +143,8 @@
 			files = (
 				C0615494238B6F5300DCD787 /* ViewController.swift in Sources */,
 				C0615492238B6F5300DCD787 /* AppDelegate.swift in Sources */,
+				C02EDB0F238E63A50034628D /* Concentration.swift in Sources */,
+				C02EDB11238E648B0034628D /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
